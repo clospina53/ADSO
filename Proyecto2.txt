@@ -1,1 +1,3 @@
 soy el proyecto numero 2
+version 2 deproyecto numero 2
+y estamos aprendiendo()
